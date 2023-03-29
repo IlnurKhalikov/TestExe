@@ -1,4 +1,3 @@
-sqlite3
 peewee
 TelegramBotAPI
 datetime
