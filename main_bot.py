@@ -1,3 +1,4 @@
+import sqlite3
 from model import *
 from telebot import types, TeleBot
 
